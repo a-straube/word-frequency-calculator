@@ -14,3 +14,5 @@ Note: This program does not actually work yet, I got to the point where I am now
 I have tried troubleshooting and re-arranging this line many ways but cannot figure it out. Rather than completely losing my sanity after the first week I will let it rest for now and re-submit when I figure out where I went wrong.
 
 I am also not sure what to put for the copyright/licensing info.
+
+Also having difficulty w/ git and heroku.
